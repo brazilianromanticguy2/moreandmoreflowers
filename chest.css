@@ -1,0 +1,74 @@
+body {
+  margin: 0%;
+  background-color: #000;
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-AmgFCh1RANg%2FTxwafNjS_7I%2FAAAAAAAACpU%2FTuB30p8-Ikg%2Fs1600%2FRomantic-Moonlight-Pictures.jpg&f=1&nofb=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.tutorial {
+  margin: 0%;
+  background-color: whitesmoke;
+  width: 20%;
+  border-radius: 1%;
+  border: 1px solid gainsboro;
+  padding: 0.5%;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.tutorial h2 {
+  font-family: calibri;
+  text-shadow: 1px 1px #000;
+  color: white;
+  display: inline-block;
+  font-size: 120%;
+}
+
+.star {
+  margin: 0%;
+  margin-top: 2.5%;
+  margin-left: 31.5%;
+}
+
+.cloud {
+  margin: 0%;
+  margin-left: 40%;
+}
+
+.chest {
+  margin: 0%;
+  margin-left: 80%;
+  margin-top: 16%;
+}
+
+.ship {
+  margin: 0%;
+  margin-top: -10%;
+  margin-left: 24%;
+}
+
+.area {
+  margin: 0%;
+  background-color: whitesmoke;
+  padding: 0.5%;
+  border-radius: 1%;
+  border: 1px solid gainsboro;
+  margin-top: 6%;
+}
+
+.area h3 {
+  display: inline-block;
+  color: white;
+  font-family: calibri;
+  text-shadow: 1px 1px #000;
+}
+
+.area p {
+  display: inline-block;
+  color: white;
+  font-family: calibri;
+  text-shadow: 1px 1px #000;
+}
